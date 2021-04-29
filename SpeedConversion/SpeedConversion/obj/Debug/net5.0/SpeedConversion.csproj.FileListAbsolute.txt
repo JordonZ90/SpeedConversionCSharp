@@ -1,0 +1,16 @@
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\SpeedConversion.exe
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\SpeedConversion.deps.json
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\SpeedConversion.runtimeconfig.json
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\SpeedConversion.runtimeconfig.dev.json
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\SpeedConversion.dll
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\ref\SpeedConversion.dll
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\bin\Debug\net5.0\SpeedConversion.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.csprojAssemblyReference.cache
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.AssemblyInfoInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.AssemblyInfo.cs
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.csproj.CoreCompileInputs.cache
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.dll
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\ref\SpeedConversion.dll
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.pdb
+C:\Users\User-Ryzen\Desktop\GitC#\SpeedConversions\SpeedConversion\SpeedConversion\obj\Debug\net5.0\SpeedConversion.genruntimeconfig.cache
